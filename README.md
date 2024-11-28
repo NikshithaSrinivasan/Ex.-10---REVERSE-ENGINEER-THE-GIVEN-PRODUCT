@@ -31,6 +31,8 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/user-attachments/assets/96f920f8-e38e-460a-b6aa-c5ef4269f42e)
+
 
 ### Output:
 ![Screenshot 2024-11-28 105930](https://github.com/user-attachments/assets/4ce52a4c-2e3c-4927-a638-a1714ab59c4f)
